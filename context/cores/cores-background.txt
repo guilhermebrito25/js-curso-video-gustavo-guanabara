@@ -1,0 +1,5 @@
+cores background:
+
+manha=	#dabd9d
+tarde=	#df8054
+noite=	#575a87

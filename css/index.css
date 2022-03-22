@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;}
+
+/*corpo geral*/
+body{
+    background-color: rgb(156, 156, 216);
+}
+
+/*cabeçalho*/
+header {
+    margin-top:50px;
+    margin-bottom: 20px;
+
+    text-align: center;
+    color: white;
+}
+
+/*conteudo principal
+main{
+
+}*/
+
+section{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.459);
+
+    text-align: center;
+}
+
+#txt-hora {
+    font-weight: 600;
+    font-size: 1.5rem;
+
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+img{
+    width: 300px;
+}
+
+/*rodape*/
+footer{
+    text-align: center;
+    font-style: italic;
+}
+
+footer > p {
+    padding: 10px;
+
+    font-size: 1.1rem;
+}
+
+a {
+    color: white;
+    font-weight: 100;
+}
